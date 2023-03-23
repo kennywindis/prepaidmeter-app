@@ -1,4 +1,3 @@
-<script>
 var units;
 var amount=prompt("enter amount of unit(s) to be purchased");
 
@@ -16,4 +15,4 @@ else if (amount >= 6000){
 units = amount/14.5;
 alert("your unit(s) purchased is" + " " + units + "watts");
 }
-</script>
+
